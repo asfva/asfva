@@ -6,12 +6,12 @@ I'm interested in what happens when familiar technology becomes a little less fa
 
 ### Currently building
 
-**AIM/0 — Touchless Range**  
+**[AIM/0 — Touchless Range](https://github.com/asfva/AIM0)**  
 A browser-based target game controlled with hand movements. Move to aim, pinch to shoot. No controller required.
 
 `JavaScript` · `MediaPipe` · `Computer vision` · `HTML Canvas`
 
-*Playable link and source code coming with the public release.*
+*Source and release notes are public. Browser-play link will follow once GitHub Pages is enabled.*
 
 ### Things I work with
 
