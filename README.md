@@ -11,7 +11,7 @@ A browser-based target game controlled with hand movements. Move to aim, pinch t
 
 `JavaScript` · `MediaPipe` · `Computer vision` · `HTML Canvas`
 
-*Source and release notes are public. Browser-play link will follow once GitHub Pages is enabled.*
+**[Play in your browser](https://asfva.github.io/AIM0/)** · [View source](https://github.com/asfva/AIM0) · Open-source under MIT.
 
 ### Things I work with
 
