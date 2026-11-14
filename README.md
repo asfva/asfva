@@ -15,7 +15,7 @@ A browser-based target game controlled with hand movements. Move to aim, pinch t
 
 ### Things I work with
 
-Computer vision · Data engineering · Interactive software · Game prototypes
+Machine Learning · Data · Web Design & Dev · Indie Game Dev
 
 ---
 
